@@ -25,4 +25,4 @@ jobs:
         run: |
           echo "inicio"
           npx html-validate "**/*.html"
-          eccho "fin"
+          echo "fin"
